@@ -1,0 +1,4 @@
+{
+  "gradle": { "enabled": false },
+  "gradle-lite": { "enabled": true }
+}
