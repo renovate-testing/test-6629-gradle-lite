@@ -1,0 +1,14 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    dependencies {
+    }
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile 'org.codehaus.groovy.modules.http-builder:http-builder:0.7.1'
+}
